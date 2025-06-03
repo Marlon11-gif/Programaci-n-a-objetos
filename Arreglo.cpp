@@ -1,8 +1,8 @@
 //9 programa
 //Marlon Emiliano Olvera Gallegos
 //28-05-25
-//Realizar un código que te permita capturar 10 valores numéricos(puede ser negativo, positivo, decimal) 
-//y posteriormente los ordene en un arreglo de manera ascendente y los imprima en la pantalla
+//cÃ³digo que permite capturar 10 valores numÃ©ricos(puede ser negativo, positivo, decimal) 
+//y posteriormente los ordena en un arreglo de manera ascendente y los imprimeÂ enÂ laÂ pantalla
 #include <conio.h>
 #include <stdio.h>
 
