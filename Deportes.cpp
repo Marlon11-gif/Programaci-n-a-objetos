@@ -1,8 +1,8 @@
 //5 programa
 //Marlon Emiliano Olvera Gallegos
 //14-05-25
-//Definir la clase deporte para las actividades que se realizen con un balon
-//crear 2 subclases derivadas dependiendo de la parte del cuerpo cuando golpeas el balon
+//Define la clase deporte para las actividades que se realizen con un balon
+//y se crea 2 subclases derivadas dependiendo de la parte del cuerpo cuando se golpea el balon
 #include <stdio.h>
 #include <string>
 
