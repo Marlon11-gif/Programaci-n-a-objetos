@@ -1,7 +1,7 @@
 //4 programa
 //Marlon Emiliano Olvera Gallegos
 //14-05-25
-//Crear clases y objetos de animales
+//Crea clases y objetos de animales
 #include <stdio.h>
 #include <string>
 
