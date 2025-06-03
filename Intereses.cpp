@@ -1,7 +1,7 @@
 //7 programa
 //Marlon Emiliano Olvera Gallegos
 //26-05-25
-//Elaborar un algoritmo para calcular la cantidad que se tendria ahorrada despues de 10 años si se depositan
+//Codigo para calcular la cantidad que se tendria ahorrada despues de 10 aÃ±os si se depositan
 //mil pesos mensualmente a una tasa de interes mensual del 3%, capitalizable cada mes, es decir, que al 
 //capital se le agrega los intereses
 #include <conio.h>
