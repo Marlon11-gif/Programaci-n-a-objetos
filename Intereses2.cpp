@@ -1,7 +1,7 @@
 //8 programa
 //Marlon Emiliano Olvera Gallegos
 //26-05-25
-//Elaborar un algoritmo para calcular la cantidad que se tendria ahorrada de 15 años si se depositan quince
+//Codigo para calcular la cantidad que se tendria ahorrada de 15 aÃ±os si se depositan quince
 //mil pesos a una tasa de interes de 3.7% mensual, capitalizable cada mes
 #include <conio.h>
 #include <stdio.h>
